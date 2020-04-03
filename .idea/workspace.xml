@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b09438df-f22f-4661-97b1-d2f6af0d86b4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZqI9e1NikwBv5nO0gch9ArPHO3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="11.8.0" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b09438df-f22f-4661-97b1-d2f6af0d86b4" name="Default Changelist" comment="" />
+      <created>1585560048537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585560048537</updated>
+      <workItem from="1585560054601" duration="14818000" />
+      <workItem from="1585640343830" duration="15309000" />
+      <workItem from="1585726565945" duration="12174000" />
+      <workItem from="1585813552570" duration="16676000" />
+      <workItem from="1585898141199" duration="154000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1170" y="286" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585584082531">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1170" y="286" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1585584082531" />
+    <state x="922" y="182" key="SettingsEditor" timestamp="1585747111586">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="922" y="182" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1585747111586" />
+    <state x="1096" y="252" key="run.anything.popup" timestamp="1585832566123">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1096" y="252" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1585832566123" />
+    <state x="1103" y="240" width="672" height="678" key="search.everywhere.popup" timestamp="1585815141968">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1103" y="240" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1585815141968" />
+  </component>
+</project>
